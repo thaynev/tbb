@@ -2,7 +2,7 @@ import { useState } from "react";
 import FilterCategory from "../components/FilterCategory";
 import { Header } from "../components/Header";
 import { Category } from "../components/Product";
-import { Products } from "../components/products";
+import { Products } from "../components/Products";
 import data from "../data/data.json";
 
 export function Home() {
